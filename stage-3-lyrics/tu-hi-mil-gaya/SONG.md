@@ -222,48 +222,44 @@
 ## SUNO v5.5 CUSTOM MODE PROMPT
 
 ```
-Title: तू ही मिल गया (Tu Hi Mil Gaya)
-Genre: Hindi indie devotional duet, late-night to morning acoustic
-Mood: Surrender after long seeking, warm arrival, devotional intimacy
-BPM: 75-80
-Key: G major
-Runtime: 3:00-3:30
-Vocal Structure: Male verses (seeking, effort) + Female chorus (arrival, warmth)
+Title: तू ही मिल गया
+Genre: Hindi indie devotional duet
+Mood: Surrender after long seeking, warm arrival
+BPM: 75-80 | Key: G major | Runtime: 3:00-3:30
+Vocal: Male verse / Female chorus duet
 
-INTRO: fingerpicked acoustic guitar alone, 8 bars, G major, warm room reverb, two-note motif breathing softly — guitar waits, doesn't rush. No other instruments. Room is quiet. 15 seconds.
+[INTRO] fingerpicked acoustic guitar alone, 8 bars, G major, warm room reverb, two-note motif, 15s
 
-MALE VERSE 1: male vocal, intimate, effort audible, not performed. Fingerpicked acoustic guitar underneath, G major. Subject: tried prayers, tried staying awake all night, stood at your door with hands clasped — still you stayed silent. This voice has been trying for years. Rough edges are okay — this is the struggling seeker.
+[MALE VERSE 1] male vocal, intimate, effort audible, rough edges okay, breath-heavy. Subject: prayers tried, nights awake, hands clasped at your door — still silent. Years of trying in this voice.
 
-MALE VERSE 2: male vocal, same intimacy but voice steadies. He realized something. "Opened my hands, stopped grasping, and then — तू ही मिल गया." Guitar motif shifts from two-note to full warm chord underneath this line. Male voice almost surprised at what happened when he stopped trying.
+[MALE VERSE 2] male vocal steadies. Key line: "जब हाथ खोल दिए / तू ही मिल गया." Hands opened = surrender. Guitar motif shifts from two-note to warm full chord on this line.
 
-FEMALE CHORUS 1: female vocal enters here — warm, open, not loud. Soft piano enters underneath, G major. Bass subtle. Brush drums on 2 and 4 only, whisper-soft. Hook tagline: "तू ही मिल गया / जो बीता सो बीता" — AA rhyme scheme, 5 syllables per tagline line, pure Hindi Devanagari. Female voice carries warmth and arrival — this is the answer after years of male seeking. Voice catches on "तू" — release, not crack. Different texture from male verse voice.
+[FEMALE CHORUS 1] hook lands ~25s. Female vocal — warm, open, reverb-heavy. Soft piano + warm bass + brush drums 2+4. Hook: "तू ही मिल गया / जो बीता सो बीता" — AA rhyme, 5 syllables, pure Hindi. Female voice = the arrival. Voice catches on "तू" — release, not crack.
 
-FEMALE CHORUS 2: identical lyrics. Slightly fuller — more reverb on female vocal, bass more present, brush slightly clearer. Same arrival, warmer room, more certain. Female voice holds the certainty the male voice couldn't find.
+[FEMALE CHORUS 2] identical lyrics. Fuller — more reverb, bass present, brush clearer.
 
-MALE VERSE 3: male vocal returns. Stripped — guitar + male voice only. Quarter inch from mic. Spoken almost. He understood after the female voice arrived: stopped asking, stopped seeking, surrendered, and that's when it arrived. Male voice thins here, guitar louder than voice — he learned this from the female voice's arrival.
+[MALE VERSE 3] male returns. Stripped — guitar + vocal only. Quarter-inch from mic. Spoken: "पूछना ख़त्म किया / तो हिस्सा मिल गया." He stopped asking. That's when it arrived.
 
-BRIDGE: instruments only. New guitar motif — two rising notes, G to A, first upward movement in the song. Piano enters softly, open fifths, G major. Very soft strings swell underneath. No words. Dawn light arriving. Everything changes texture here.
+[BRIDGE] instruments only. Rising guitar motif G to A — first upward movement in song. Piano soft open fifths. Dawn breaking, no words.
 
-FEMALE CHORUS 3: final. Stripped first — female voice barely above whisper, almost speaking. Then full arrangement returns — guitar, piano, soft bass, brush drums, soft strings. All instruments return. Warm, full, not loud. Female voice carries the completion of the arc.
+[FEMALE CHORUS 3] stripped first — barely whisper. Then full return — guitar, piano, bass, brush, soft strings. All instruments back. Warm, full, not loud.
 
-OUTRO: female voice alone + one guitar note. G major chord. Full stop. Fade or CUT on last syllable of "तू ही."
+[OUTRO] female voice alone + one guitar note. G major. CUT on "तू ही" — last syllable, no fade.
 
-VOICE — MALE: intimate, effort-heavy, not performed, slightly rough edges okay, breath audible, whisper-close. This is the struggling seeker who tried for years. Rough around the edges. Exhausted but honest. NOT auto-tuned.
+VOICE — MALE: intimate, effort-heavy, rough edges, breath-audible, whisper-close. Exhausted seeker. NOT auto-tuned.
+VOICE — FEMALE: warm, open, devotional clean, reverb-heavy. Like Jonita Gandhi style. Lighter than male. Carries arrival certainty. NOT auto-tuned.
 
-VOICE — FEMALE: warm, open, arrived, not loud, soft reverb. This is the answer — lighter than the male voice, more open, carries certainty and warmth. Clean devotional tone — like Jonita Gandhi or Nikhita Gandhi devotional style. NO auto-tune, NO heavily processed. Reverb on vocals.
+INSTRUMENTS: fingerpicked acoustic guitar (G major), soft piano (G major chords), warm bass, soft brush drums
 
-PRIMARY INSTRUMENT: Fingerpicked acoustic guitar, warm tone, G major, room reverb
-SECONDARY: Soft piano, warm G major chords underneath female choruses
-PERCUSSION: Soft brush drums on 2 and 4 only
-PRODUCTION: Warm, open, clean. Minimal. Morning light warmth. Duet contrast between male seeking and female arriving. Lots of space. Reverb-heavy vocals on female, moderate reverb on male.
+PRODUCTION: warm G major, minimal, morning light, reverb-heavy on both vocals, lots of space
 
-AVOID: Bollywood devotional orchestration, tabla, dhol, heavy drums, auto-tune on either voice, over-production, minor key melancholy, worship-style arrangement, male and female voices sounding the same, female voice doing rap
+AVOID: Bollywood orchestration, tabla, dhol, heavy drums, auto-tune, minor key, worship-style, male/female voices same texture
 
-LYRICS: Pure Hindi Devanagari. Male verses: first-person seeking, effort, exhaustion. Female choruses: arrival, warmth, certainty. Hook tagline: 5-7 syllables. AA rhyme scheme. "तू ही" devotional anchor. Female chorus repeats 3×. End on female hook.
+LYRICS: Pure Hindi Devanagari. Male = seeking/exhaustion. Female = arrival/certainty. Hook 5-7 syllables. AA rhyme. "तू ही" anchor. 3 female chorus repeats. End on female hook.
 
-REFERENCE TRACKS: Navjyot Ahuja — KHAT (devotional surrender). Jonita Gandhi — devotional Hindi indie. Prateek Kuhad — TERE HI HUM (possessive devotional). Dino James — DOORIYAN (male/female duet contrast structure, flipped for devotional use).
+REFERENCE: KHAT (devotional), DOORIYAN (duet structure), TERE HI HUM (devotional)
 
-STYLE TAG: Hindi indie devotional duet, male verse / female chorus, fingerpicked acoustic guitar, warm G major, reverb-drenched vocals, soft brush percussion, minimal warm production, morning light surrender mood, male seeking contrast female arrival
+STYLE: Hindi devotional duet, male seeking / female arrival contrast, fingerpicked acoustic guitar, warm G major, soft brush percussion, reverb vocals, minimal production
 ```
 
 ---
